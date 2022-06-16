@@ -38,6 +38,9 @@ Powerful Techniques ; [Link 2](https://arxiv.org/pdf/1602.07563v2.pdf) : Multili
 
 - **Links to the notebooks:** [Notebook1](https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis) ; [Notebook2](https://colab.research.google.com/github/littlecolumns/ds4j-notebooks/blob/master/investigating-sentiment-analysis/notebooks/Designing%20your%20own%20sentiment%20analysis%20tool.ipynb#scrollTo=AgBSO9x-72IA) ; [Notebook3](https://towardsdatascience.com/sentiment-analysis-in-10-minutes-with-bert-and-hugging-face-294e8a04b671) ; [Notebook4](https://colab.research.google.com/github/agungsantoso/deep-learning-v2-pytorch/blob/master/sentiment-rnn/Sentiment_RNN_Exercise.ipynb#scrollTo=irgW-x9Zpmw1).
 
+## CODE CONTRIBUTION TO KWOC
+The Code can be found in in the .ipynb file and the analysis report can be found in the PDF file.
+
 
 
 
